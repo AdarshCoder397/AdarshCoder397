@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">I am a passionate python programmer!</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshcoder397&label=Profile%20views&color=0e75b6&style=flat" alt="adarshcoder397" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshcoder397" alt="adarshcoder397" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adarsh397" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh397?logo=twitter&style=for-the-badge" alt="adarsh397" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <a href="https://twitter.com/adarsh397k" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh397k?logo=twitter&style=for-the-badge" alt="adarsh397k" /></a> </p>
 
 - 🌱 I’m currently learning **Django,Flask**
 
@@ -17,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adarsh397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh397" height="30" width="40" /></a>
+<a href="https://twitter.com/adarsh397k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh397k" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshuc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshuc_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codewithadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithadarsh" height="30" width="40" /></a>
 <a href="https://discord.gg/ecCYEnH2Px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ecCYEnH2Px" height="30" width="40" /></a>
